@@ -1,6 +1,9 @@
 .. image:: https://travis-ci.org/ornlneutronimaging/wavepy.svg?branch=master
     :target: https://travis-ci.org/ornlneutronimaging/wavepy
 
+.. image:: https://readthedocs.org/projects/wavepy-ornl/badge/?version=latest
+:target: https://wavepy-ornl.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 ======
 wavePy
