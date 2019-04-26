@@ -7,7 +7,6 @@ from setuptools import setup, find_packages
 REQUIRED = ['scipy',
             'tqdm',
             'easygui_qt',
-            'xraylib',
             'dxchange',
             'configparser',
             'matplotlib',
