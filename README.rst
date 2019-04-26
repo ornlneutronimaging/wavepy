@@ -1,3 +1,7 @@
+.. image:: https://travis-ci.org/ornlneutronimaging/wavepy.svg?branch=master
+    :target: https://travis-ci.org/ornlneutronimaging/wavepy
+
+
 ======
 wavePy
 ======
