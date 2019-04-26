@@ -1,0 +1,6 @@
+name: wavepy
+        channels:
+          - conda-forge
+        dependencies:
+          - python==3.6
+          - sphinx_rtd_theme
